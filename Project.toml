@@ -1,0 +1,4 @@
+name = "DSTest"
+uuid = "75ae7921-06ae-4e83-ac6f-1dbd945824fa"
+authors = ["Taisuke Yamada <tai@rakugaki.org>"]
+version = "0.1.0"
